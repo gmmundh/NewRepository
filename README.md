@@ -1,4 +1,6 @@
-# Introduction
+## Introduction
+
+# Name and College
 
 My name is Ghulam Mustafa Mundh and I am currently the Director of Contract Management at Bruce Power a nuclear power generating station. I have a math degree from the University of Waterloo in Finanancial Mathematics.
 
